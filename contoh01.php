@@ -22,7 +22,7 @@
 		";
 
     //SQL Update Tabel USERS
-    $sqlUpdate ="UPDATE USERS set password = '081338457980' where email='made@artha.web.id';";
+    $sqlUpdate ="UPDATE USERS set telp = '081338457980' where email='made@artha.web.id';";
 		
 	  // SQL SELECT
 	  $sqlSelect ="SELECT * from USERS;";
